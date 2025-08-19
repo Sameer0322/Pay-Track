@@ -42,7 +42,7 @@ const Sidebar = ({ mobile, onClose }) => {
       {/* Header */}
       <div className="flex items-center justify-between p-6 border-b border-secondary">
         <div>
-          <h1 className="text-xl font-bold">Pay Track Pro</h1>
+          <h1 className="text-xl font-bold">Pay Track</h1>
           <p className="text-sm text-gray-300 capitalize">{user?.role}</p>
         </div>
         {mobile && (

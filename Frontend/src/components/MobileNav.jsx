@@ -15,7 +15,7 @@ const MobileNav = ({ onMenuClick }) => {
           >
             <Menu className="w-6 h-6" />
           </button>
-          <h1 className="ml-3 text-xl font-bold text-primary">Pay Track Pro</h1>
+          <h1 className="ml-3 text-xl font-bold text-primary">Pay Track</h1>
         </div>
         
         <div className="flex items-center space-x-3">

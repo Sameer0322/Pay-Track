@@ -68,3 +68,11 @@ The platform ensures **secure authentication, salary tracking, and reporting**, 
 
 ---
 
+🤝 Contributing
+
+This project is still in progress and open for contributions 🚀
+If you’d like to contribute (code, UI/UX, documentation, or ideas):
+
+📧 Contact: saxenasameer022@gmail.com
+
+Fork the repo, raise a PR, or simply reach out to collaborate!

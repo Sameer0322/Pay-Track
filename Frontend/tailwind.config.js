@@ -19,7 +19,7 @@ export default {
     },
     extend: {
       colors: {
-        // Pay Track Pro theme colors
+        // Pay Track  theme colors
         primary: {
           DEFAULT: "#111827", // Charcoal Black
           50: "#f9fafb",

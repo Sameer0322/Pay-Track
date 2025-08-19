@@ -99,7 +99,7 @@ const Register = () => {
       <div className="relative z-10 min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8">
         <div className="max-w-md w-full bg-white/10 backdrop-blur-md rounded-2xl shadow-2xl p-8 border border-white/20">
           <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-yellow-400">Pay Track Pro</h1>
+          <h1 className="text-3xl font-bold text-yellow-400">Pay Track</h1>
           <p className="text-white mt-2">Create your employer account</p>
         </div>
 
