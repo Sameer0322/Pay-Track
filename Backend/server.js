@@ -18,7 +18,7 @@ app.use(cors());
 // Routes
 app.get('/', (req, res) => res.send('API is running...'));
 
-// Add route files later here
+// Route files 
 app.use('/api/auth', authRoutes);
 app.use('/api/departments', departmentRoutes);
 app.use('/api/employee', employeeRoutes);
