@@ -41,7 +41,6 @@ The platform ensures **secure authentication, salary tracking, and reporting**, 
 ---
 
 ## 🎨 UI/UX Guidelines
-- **Mobile-first design**
 - **Sidebar navigation (desktop)** & **hamburger menu (mobile)**  
 - **Sticky bottom action bar (mobile)**  
 - **Scrollable, responsive tables**  
