@@ -36,17 +36,8 @@ The platform ensures **secure authentication, salary tracking, and reporting**, 
 - **Confirm Salary**
   - Acknowledge salary receipt  
 - **Profile Management**
-  - Update password after verifying old one  
+  - Update password after verifying old one
 
----
-
-## 🎨 UI/UX Guidelines
-- **Sidebar navigation (desktop)** & **hamburger menu (mobile)**  
-- **Sticky bottom action bar (mobile)**  
-- **Scrollable, responsive tables**  
-- **Cards, hover effects, and KPI highlights**  
-- **Modern icons** 
-- **Accessible design**  
 
 ---
 
